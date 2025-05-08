@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: MadeDesignEasy
+Version: 0.1.0
+Summary: An end to end ML-Design set-up
+Home-page: https://github.com/sumitrwk90/MadeDesignEasy
+Author: sumitrwk90
+Author-email: sumitrwk@gmail.com
+Project-URL: Bug Tracker, https://github.com/sumitrwk90/MadeDesignEasy/issues
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
+
+
